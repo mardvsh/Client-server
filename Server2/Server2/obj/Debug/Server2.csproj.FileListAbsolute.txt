@@ -1,0 +1,49 @@
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.exe.config
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.exe
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.pdb
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.Form1.resources
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\ASUS\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.pdb
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.exe.config
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.exe
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.pdb
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.Form1.resources
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\admin\Desktop\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.exe.config
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\bin\Debug\Server2.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.Form1.resources
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\ОСкурсовая_БСТ1702_Клыгина\Server2\Server2\obj\Debug\Server2.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\bin\Debug\Server2.exe.config
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\bin\Debug\Server2.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\bin\Debug\Server2.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.Form1.resources
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\ОС\КУРСОВАЯ\ОСкурсовая_БСТ1702_Клыгина\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\bin\Debug\Server2.exe.config
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\bin\Debug\Server2.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\bin\Debug\Server2.pdb
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.Form1.resources
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\Xiaomi\OneDrive\Рабочий стол\Мухина_Курсовая_ОС\Server2\Server2\obj\Debug\Server2.pdb
